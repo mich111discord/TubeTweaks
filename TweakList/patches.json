@@ -1,0 +1,30 @@
+{
+  "patches": [
+    {
+      "id": "remove-shorts",
+      "name": {
+        "pl": "Ukryj YouTube Shorts",
+        "en": "Hide YouTube Shorts"
+      },
+      "description": {
+        "pl": "Usuwa sekcje Shorts ze strony głównej i wyników wyszukiwania.",
+        "en": "Removes Shorts sections from home feed and search results."
+      },
+      "default_enabled": true,
+      "raw_url": "https://raw.githubusercontent.com/mich111discord/TubeTweaks/main/patches/remove-shorts.js"
+    },
+    {
+      "id": "auto-hd",
+      "name": {
+        "pl": "Awatary / Jakość HD",
+        "en": "Auto High Quality"
+      },
+      "description": {
+        "pl": "Automatycznie wybiera wysokie ustawienia jakości.",
+        "en": "Automatically selects higher quality playback settings."
+      },
+      "default_enabled": false,
+      "raw_url": "https://raw.githubusercontent.com/mich111discord/TubeTweaks/main/patches/auto-hd.js"
+    }
+  ]
+}
