@@ -38,6 +38,19 @@
   },
   "default_enabled": false,
   "raw_url": "https://raw.githubusercontent.com/mich111discord/TubeTweaks/main/patches/remove-download-button.js"
+},
+    {
+  "id": "restore-classic-icons",
+  "name": {
+    "pl": "Klasyczne (cieńsze) ikony",
+    "en": "Classic (Thinner) Icons"
+  },
+  "description": {
+    "pl": "Przywraca klasyczny wygląd ikon i tekstów, usuwając nowe pogrubienia z UI.",
+    "en": "Restores classic icon and text styling by removing modern bold UI tweaks."
+  },
+  "default_enabled": true,
+  "raw_url": "https://raw.githubusercontent.com/mich111discord/TubeTweaks/main/TweakList/patches/restore-classic-icons.js"
 }
   ]
 }
