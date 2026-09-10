@@ -10,7 +10,7 @@
         "pl": "Usuwa sekcje Shorts ze strony głównej i wyników wyszukiwania.",
         "en": "Removes Shorts sections from home feed and search results."
       },
-      "default_enabled": true,
+      "default_enabled": false,
       "raw_url": "https://raw.githubusercontent.com/mich111discord/TubeTweaks/main/patches/remove-shorts.js"
     },
     {
@@ -25,6 +25,19 @@
       },
       "default_enabled": false,
       "raw_url": "https://raw.githubusercontent.com/mich111discord/TubeTweaks/main/patches/auto-hd.js"
-    }
+    },
+    {
+  "id": "remove-download-button",
+  "name": {
+    "pl": "Usuń przycisk Pobierz",
+    "en": "Remove Download Button"
+  },
+  "description": {
+    "pl": "Ukrywa przycisk Pobierz pod filmami na YouTube.",
+    "en": "Hides the Download button under YouTube videos."
+  },
+  "default_enabled": false,
+  "raw_url": "https://raw.githubusercontent.com/mich111discord/TubeTweaks/main/patches/remove-download-button.js"
+}
   ]
 }
